@@ -8,14 +8,18 @@ Links: **[Documentations](https://ninja-muffin24.itch.io/funkin) ⋅ [Offical Pa
 > Github Pages is a page add-on that allows you to create awsome standered pages for your github project!
 
 ## Github Pages Pro
-**Github Pages Pro** 
+**Github Pages Pro** is a more customasable and better github pages editor, that gets allows you to create pages of your dreams!
 
-Links: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761) ⋅ [play in browser](https://funkin.puyo.xyz) ⋅ [latest stable release](https://github.com/KadeDev/Kade-Engine/releases/latest) ⋅ [latest development build (windows)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/branch/master/artifacts) ⋅ [latest development build (macOS)](https://ci.appveyor.com/project/KadeDev/kade-engine-macos/branch/master/artifacts) ⋅ [latest development build (linux)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/branch/master/artifacts)**
+### Downloads
+**Pages Pro Builds**: [Windows Build]() ⋅ [MacOS Build]() ⋅ [Lunix Build]()
 
-**REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
+**Github Desktop**: [Windows Build]() ⋅ [MacOS Build]() ⋅ [Lunix Build]()
 
-## Website ([KadeDev.github.io/kade-engine/](https://KadeDev.github.io/Kade-Engine/))
-If you're looking for documentation, changelogs, or guides, you can find those on the Kade Engine website.
+**Pages Add-On (Desktop)** [Windows Build]() ⋅ [MacOS Build]() ⋅ [Lunix Build]()
+
+**Pages Pro Lib** [Java]() ⋅  [Github]()
+
+**REMEMBER**: This is not offical and is a modification for pages!!!
 
 # Previews ([skip](#features))
 
@@ -46,16 +50,15 @@ If you're looking for documentation, changelogs, or guides, you can find those o
 	 - If your headphones are delayed, you can set an offset in the options menu to line the game up with the delay and play with synced audio like intended.
 
 # Credits
-### Friday Night Funkin'
+### Pages
  - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
  - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
  - [Kawai Sprite](https://twitter.com/kawaisprite) - Music
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
-### Kade Engine
+### Pages Pro
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
-
 
 ### Shoutouts
 - [GWebDev](https://github.com/GrowtopiaFli) - Video Code
